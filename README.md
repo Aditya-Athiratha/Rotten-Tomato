@@ -5,4 +5,4 @@
 Clone into your local machine.
 Open index.html file to visit the website.
 
-![Image Alt Text](preview.jpg)
+<img width="1470" alt="preview" src="https://github.com/Aditya-Athiratha/Rotten-Tomato/assets/76585088/03c13cd5-6493-4b07-8e8d-4692d6289bc3">
